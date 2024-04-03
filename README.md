@@ -12,17 +12,7 @@ This project showcases the implementation of different server architectures to h
 
 Additionally, performance testing is conducted using JMeter to evaluate the scalability and throughput of each server implementation.
 
-## Features
 
-- Implementation of single-threaded, multi-threaded, and thread-pool servers.
-- Efficient handling of concurrent client connections.
-- Performance testing using JMeter to assess server scalability and throughput.
-- Simple and easy-to-understand codebase.
-
-## Technologies Used
-
-- Java
-- JMeter
 
 ## Screenshots
 ## Single Threaded Server
